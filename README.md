@@ -13,6 +13,15 @@ Note Saving Application developed using MERN
 ## Repo Link 
 ![](https://github.com/IT20228644/Note_Saver.git)
 
+## How to run the application?
+1. open project directory in terminal
+2. type "npm i" (to install node modules for backend)
+3. type "cd frontend" (to move frontend directory)
+4. type "npm i" (to install node modules fro frontend)
+5. in the root directory, type "npm run dev"
+6. application will start on your browser
+
+
 
 ## Built with 
 
