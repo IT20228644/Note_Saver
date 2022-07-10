@@ -21,6 +21,10 @@ Note Saving Application developed using MERN
 5. in the root directory, type "npm run dev"
 6. application will start on your browser
 
+## Admin Credentials
+Admin email: admin@gmail.com
+Admin password: admin
+
 
 
 ## Built with 
